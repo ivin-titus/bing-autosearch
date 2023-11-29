@@ -24,7 +24,7 @@ Note
 * Don't touch on keyboard or mouse until script execution is completed .
 * if you're using it for Bing Rewards , you should logged in your account properly . I'm not responsible for suspension of your account . 
 * This script is made for Windows & Linux based system . It may work on MacOS , but it didn't works on Android & iOS .
-* It will do 34 PC searches + 24 Mobile Searches . not other tasks for bing rewards . 
+* It will do 34 PC searches + 24 Mobile Searches , not other tasks for bing rewards . 
 * I'm using pyautogui , so it have less suspension chances than search bots which uses selenium . This Script interacts through serach bar of the browser ,
  So Script cannot be found using web scripting . But Chances are not zero . 
 
