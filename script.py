@@ -35,9 +35,7 @@ def edge_search_with_random_word():
 for _ in range(34):
     edge_search_with_random_word()
 
-print('PC Searches Finished')
-
-pyautogui.alert('Click OK to start Mobile searches') 
+print('PC Searches Finished') 
 
 # Performs Mobile Searches
 pyautogui.hotkey('ctrl', 'shift', 'i')  # switches to Mobile Mode
