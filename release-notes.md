@@ -8,7 +8,7 @@ v1.0
 * Fixed mobile search issues
 * Shows a message after finishing Mobile Searches
 
-v1.1
+v1.1 ( will be released soon )
 * Asks for confirmation to start script
 * Skipped unnecessary steps
 * Code made Faster
