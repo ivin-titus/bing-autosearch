@@ -1,7 +1,7 @@
 Release Notes
 
 v0.1
-*Only Basic functionality 
+* Only Basic functionality 
 
 v1.0
 * Fixed Crashes or Code Misbehaviours
