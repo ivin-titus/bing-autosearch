@@ -13,7 +13,7 @@ Steps for Running Script
 * Install reguired packages
  pip install pyautogui
  pip install random
-* Download the contents & extract it ( you can also clone this repo using git clone command )
+* Download the latest version of script & extract it ( you can also clone this repo using git clone command )
 * Change Directory using  cd ' file location ' command . replace 'file location' with exact one .
 * Open Browser & make it in maximized window mode .
 * Close or minimize all other windows except browser .
