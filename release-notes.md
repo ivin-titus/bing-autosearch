@@ -13,3 +13,4 @@ v1.1
 * Skipped unnecessary steps
 * Code made Faster
 * Shows popup after Script is finished
+* Added cursor.py file to check cursor location which helps to customize script.py according to your needs
