@@ -7,12 +7,11 @@ Contact me on social media for clearing doubts .
 Requirements
 * Browser - Chrome or Edge ( Latest Version )
 * Python - 3.10 or later ( check google for installation guide according to your OS )
-* Packages - pyautogui,random,time ( time is default , you only needs to install other ones )
+* Packages - pyautogui,random,time ( time & random is default , you only needs to install pyautogui )
 
 Steps for Running Script
-* Install reguired packages
+* Install reguired package
  pip install pyautogui
- pip install random
 * Download the latest version of script & extract it ( you can also clone this repo using git clone command )
 * Change Directory using  cd ' file location ' command . replace 'file location' with exact one .
 * Open Browser & make it in maximized window mode .
