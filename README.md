@@ -27,6 +27,6 @@ Note
 * It will do 34 PC searches + 24 Mobile Searches , not other tasks for bing rewards . 
 * I'm using pyautogui , so it have less suspension chances than search bots which uses selenium . This Script interacts through serach bar of the browser ,
  So Script cannot be found using web scripting . But Chances are not zero . 
-
+* if New releases have any issues , try older ones & notify me on instagram 
 * if it works without issues , don't forget to star this repo , also subscribe to my youtube channel - Ivin Techz & follow me on social media .
   i'll update the code and add more functionalities when i'm free . 
