@@ -15,5 +15,5 @@ v1.1
 * Shows popup after Script is finished
 * Added cursor.py file to check current cursor location which helps to customize script.py according to your needs
 
-v1.2
+v1.2 ( Will be released soon )
 * Opens a New Tab for Searches . After searches are finished , it will Close .
