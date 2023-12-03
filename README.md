@@ -5,6 +5,8 @@ This is the most lightweight script for this task . This is my first project , s
 Contact me on social media for clearing doubts .
 
 Requirements
+* A Computer
+* Proper internet connection
 * Browser - Chrome or Edge ( Latest Version )
 * Python - 3.10 or later ( check google for installation guide according to your OS )
 * Packages - pyautogui,random,time ( time & random is default , you only needs to install pyautogui )
@@ -17,7 +19,8 @@ Steps for Running Script
 * Open Browser & make it in maximized window mode .
 * Close or minimize all other windows except browser .
 * Run the script using  python script.py or  python3 script.py on Powershell or Terminal ( on windowed mode on right side of the screen )
-* After Running the script , click on the browser window .
+* After Running the script , click on the browser window 
+
 
 Note
 * Don't touch on keyboard or mouse until script execution is completed .
@@ -28,4 +31,6 @@ Note
  So Script cannot be found using web scripting . But Chances are not zero . 
 * if New releases have any issues , try older ones & notify me on instagram 
 * if it works without issues , don't forget to star this repo , also subscribe to my youtube channel - Ivin Techz & follow me on social media .
-  i'll update the code and add more functionalities when i'm free . 
+  i'll update the code and add more functionalities when i'm free .
+  
+  NB : Open release notes for more info . Some changes can occur according to version of script
