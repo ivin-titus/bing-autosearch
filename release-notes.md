@@ -18,5 +18,5 @@ v1.1
 * Added cursor.py file to check current cursor location which helps to customize script.py according to your needs
 
 
-v1.2 ( Will be released soon )
+v1.2
 * Opens a New Tab for Searches . After searches are finished , it will Close .
