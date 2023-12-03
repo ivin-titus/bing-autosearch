@@ -12,7 +12,7 @@ Requirements
 * Packages - pyautogui,random,time ( time & random is default , you only needs to install pyautogui )
 
 Steps for Running Script
-* Install reguired package
+* Install required package
  pip install pyautogui
 * Download the latest version of script & extract it ( you can also clone this repo using git clone command )
 * Change Directory using  cd ' file location ' command . replace 'file location' with exact one .
@@ -21,6 +21,7 @@ Steps for Running Script
 * Run the script using  python script.py or  python3 script.py on Powershell or Terminal ( on windowed mode on right side of the screen )
 * After Running the script , click on the browser window 
 
+NB : Open release notes for more info . Some changes can occur according to version of script
 
 Note
 * Don't touch on keyboard or mouse until script execution is completed .
@@ -32,5 +33,3 @@ Note
 * if New releases have any issues , try older ones & notify me on instagram 
 * if it works without issues , don't forget to star this repo , also subscribe to my youtube channel - Ivin Techz & follow me on social media .
   i'll update the code and add more functionalities when i'm free .
-  
-  NB : Open release notes for more info . Some changes can occur according to version of script
