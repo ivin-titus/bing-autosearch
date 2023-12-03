@@ -1,6 +1,6 @@
 Release Notes
 
-v0.1
+v0.1 (Beta)
 * Only Basic functionality 
 
 
