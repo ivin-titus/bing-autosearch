@@ -1,7 +1,7 @@
 Introduction
 
 This Script can do Automatic Searches on bing . It utilizes a python package called ' pyautogui ' to simulate keyboard & mouse inputs .
-This is the most lightweight script for this task . This is my first project , so code & documentation may be a little messy . 
+This is the most lightweight script for this task . This is my first project , So code & documentation may be a little messy . 
 Contact me on social media for clearing doubts .
 
 Requirements
