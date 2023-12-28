@@ -20,3 +20,13 @@ v1.1
 
 v1.2
 * Opens a New Tab for Searches . After searches are finished , it will Close .
+
+
+v2.0
+* Fixed issues and bugs
+* Added options to schedule script by running 'run-at.py'
+* Opens chrome and does searches , closes chrome after searches - all things done automatically by running 'run.py' file .
+* Option to send logs and points screenshot to telegram and discord
+* Can setup auto-shutdown after script finished
+* Complete customization on script by editing 'contol.py' - can change values , turn on and off almost all functions inside script . 
+* read '+readme.txt' for more info
