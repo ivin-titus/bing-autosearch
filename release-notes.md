@@ -1,5 +1,7 @@
 Release Notes
 
+
+
 v0.1 (Beta)
 * Only Basic functionality 
 
@@ -30,3 +32,7 @@ v2.0
 * Can setup auto-shutdown after script finished
 * Complete customization on script by editing 'contol.py' - can change values , turn on and off almost all functions inside script . 
 * read '+readme.txt' for more info
+
+
+v2.1
+* Sends number of searches done to telegram and discord
