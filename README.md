@@ -23,6 +23,7 @@ Steps for Running Script ( Script v.2.0 and later )
 * Follow instuctions inside readme.txt inside particular script version , You can Customize the script according to this file . New features are added on each release .
 
 Important Notice : Because of some changes inside bing rewards program , versions below v2.0 is not working
+
 NB : Open release notes for more info . Some changes can occur according to version of script
 
 Note
