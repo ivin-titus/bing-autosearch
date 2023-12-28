@@ -5,7 +5,7 @@ This is the most lightweight script for this task . This is my first project , S
 Contact me on social media for clearing doubts .
 
 Requirements
-* A Computer with Graphical user interface
+* A Computer with Graphical user interface and 1080p Resolution
 * Proper internet connection
 * Browser - Chrome ( Latest Version )
 * Python - 3.10 or later ( check google for installation guide according to your OS )
