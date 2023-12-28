@@ -13,9 +13,9 @@ Requirements
 
 Steps for Running Script ( Script v.2.0 and later )
 * Install required package
- pip install pyautogui
- pip install pygetwindow
- pip install requests
+  pip install pyautogui
+  pip install pygetwindow
+  pip install requests
 * Download the latest version of script & extract it ( you can also clone this repo using git clone command )
 * Change Directory using  cd ' file location ' command . replace 'file location' with exact one .
 * Run the script using  python run.py  or  python3 run.py on Powershell or CMD or Terminal
