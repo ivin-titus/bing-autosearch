@@ -15,8 +15,8 @@ Steps for Running Script ( Script v.2.0 and later )
 * Install required packages - pip install pyautogui , pip install pygetwindow , pip install requests
 * Download the latest version of script & extract it ( you can also clone this repo using git clone command )
 * Change Directory using  cd ' file location ' command . replace 'file location' with exact one .
-* Run the script using  python run.py  or  python3 run.py on Powershell or CMD or Terminal
-* If you want to schedule it , run run-at.py 
+* Run the script using  ' python run.py '  or  ' python3 run.py ' on Powershell or CMD or Terminal
+* If you want to schedule it , run 'run-at.py' 
 * Follow instuctions inside readme.txt inside particular script version , You can Customize the script according to this file . New features are added on each release .
 
 Important Notice : Because of some changes inside bing rewards program , versions below v2.0 is not working
