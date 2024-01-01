@@ -35,4 +35,5 @@ v2.0
 
 
 v2.1
+* Fixed random bugs 
 * Sends number of searches done to telegram and discord ( if it's enabled )
