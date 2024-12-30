@@ -78,6 +78,7 @@ Refer to `readme.txt` in each version directory for customization options and ve
 
 ## License
 
+**AGPL-3.0 license**
 
 ---
-Created by Ivin Titus
+**&copy; Ivin Titus**
