@@ -1,39 +1,57 @@
-Release Notes
+# Changelog
 
+All notable changes to this project will be documented in this file.
 
+## [2.1] - Latest
 
-v0.1 (Beta)
-* Only Basic functionality 
+### Added
+- Telegram/Discord notification for number of searches completed
 
+### Fixed
+- Various random bugs
 
-v1.0
-* Fixed Crashes or Code Misbehaviours
-* Fixed mobile search issues
-* Shows a message after finishing Mobile Searches
+## [2.0]
 
+### Added
+- Scheduling functionality via `run-at.py`
+- Automatic Chrome handling (open/close)
+- Telegram and Discord integration for logs and points screenshots
+- Auto-shutdown option
+- Full customization through `control.py`
 
-v1.1
-* Asks for confirmation to start script ( Click OK to continue or close terminal to stop )
-* Skipped unnecessary steps
-* Code made Faster
-* Shows popup after Script is finished
-* Added cursor.py file to check current cursor location which helps to customize script.py according to your needs
+### Changed
+- Combined functionality into `run.py`
 
+## [1.2]
 
-v1.2
-* Opens a New Tab for Searches . After searches are finished , it will Close .
+### Added
+- New tab handling for searches
+- Automatic tab closure after completion
 
+## [1.1]
 
-v2.0
-* Fixed issues and bugs
-* Added options to schedule script by running 'run-at.py'
-* Opens chrome and does searches , closes chrome after searches - all things done automatically by running 'run.py' file .
-* Option to send logs and points screenshot to telegram and discord
-* Can setup auto-shutdown after script finished
-* Complete customization on script by editing 'contol.py' - can change values , turn on and off almost all functions inside script . 
-* read '+readme.txt' for more info
+### Added
+- Script start confirmation prompt
+- Completion popup notification
+- `cursor.py` for cursor position debugging
 
+### Changed
+- Improved execution speed
+- Streamlined unnecessary steps
 
-v2.1
-* Fixed random bugs 
-* Sends number of searches done to telegram and discord ( if it's enabled )
+## [1.0]
+
+### Fixed
+- Mobile search issues
+- Crashes and code misbehaviors
+
+### Added
+- Mobile search completion notification
+
+## [0.1] - Beta
+
+### Added
+- Initial release with basic functionality
+
+## Additional Information
+See `readme.txt` in v2.0+ for detailed configuration options.
