@@ -1,35 +1,83 @@
-Introduction
+# Bing Search Automation
 
-This Script can do Automatic Searches on bing . It utilizes a python package called ' pyautogui ' to simulate keyboard & mouse inputs .
-This is the most lightweight script for this task . This is my first project , So code & documentation may be a little messy . 
-Contact me on social media for clearing doubts .
+Automate Bing searches using Python and GUI automation. Lightweight script that simulates keyboard & mouse inputs using pyautogui.
 
-Requirements
-* A Computer with Graphical user interface ( atleast 540p for flawless working )
-* Proper internet connection ( atleast 4mbps )
-* Browser - Chrome ( Latest Version )
-* Python - 3.10 or later ( check google for installation guide according to your OS )
-* Packages - pyautogui,pygetwindow ,requests
+## Features
 
-Steps for Running Script ( Script v.2.0 and later )
-* Install required packages - pip install pyautogui , pip install pygetwindow , pip install requests
-* Download the latest version of script & extract it ( you can also clone this repo using git clone command )
-* Change Directory using  cd ' file location ' command . replace 'file location' with exact one .
-* Run the script using  ' python run.py '  or  ' python3 run.py ' on Powershell or CMD or Terminal
-* If you want to run it as scheduled , run 'run-at.py' 
-* Follow instuctions inside readme.txt inside particular script version , You can Customize the script according to this file . New features will be added on each release .
+- Automated Bing searches
+- Scheduled search execution
+- Windows & Linux support
+- GUI-based automation (low detection risk)
+- Configurable search parameters
 
-Important Notice : Because of some changes inside bing rewards program , versions below v2.0 is not working
+## Prerequisites
 
-NB : Open release notes for more info . Some changes can occur according to version of script
+- Computer with GUI (minimum 540p resolution)
+- Internet connection (4+ Mbps)
+- Google Chrome (latest version)
+- Python 3.10+
 
-Note
-* Don't touch on keyboard or mouse until script execution is completed .
-* if you're using it for Bing Rewards , you should logged in your account properly . I'm not responsible for suspension of your account .
-* This script is made for Windows & Linux based system . It may work on MacOS , but it didn't works on Android & iOS .
-* It will only do PC searches , not mobile searches and other tasks for bing rewards . 
-* I'm using pyautogui , so it have less suspension chances than search bots which uses selenium . This Script interacts through serach bar of the browser ,
- So Script cannot be found using web scripting . But Chances are not zero . 
-* if New releases have any issues , notify me on instagram .
-* if it works without issues , don't forget to star this repo , also subscribe to my youtube channel - Ivin Techz & follow me on social media .
-  i'll update the code and add more functionalities when i'm free .
+## Dependencies
+
+```bash
+pip install pyautogui pygetwindow requests
+```
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/[username]/bing-search-automation
+cd bing-search-automation
+```
+
+2. Install required packages:
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+### Basic Execution
+```bash
+python run.py
+```
+
+### Scheduled Execution
+```bash
+python run-at.py
+```
+
+## Important Notes
+
+- Do not interact with keyboard/mouse during script execution
+- Script requires proper Bing account login for Rewards functionality
+- Only performs PC searches (mobile searches not supported)
+- Compatible with Windows/Linux (MacOS untested, mobile OS unsupported)
+- Uses GUI automation instead of web scripting for reduced detection risk
+
+## Version Compatibility
+
+⚠️ **Notice**: Versions below v2.0 are no longer functional due to Bing Rewards program changes.
+
+## Customization
+
+Refer to `readme.txt` in each version directory for customization options and version-specific features.
+
+## Limitations
+
+- Account suspension risk exists (though minimized through GUI automation)
+- Mobile searches not supported
+- No automatic completion of other Bing Rewards tasks
+
+## Support
+
+- Report issues via GitHub Issues
+- Contact via ivintitus@hotmail.com 
+
+
+## License
+
+
+---
+Created by Ivin Titus
