@@ -23,20 +23,11 @@ Automate Bing searches using Python and GUI automation. Lightweight script that 
 pip install pyautogui pygetwindow requests
 ```
 
-## Installation
+## Installation and usage
 
-1. Clone the repository:
-```bash
-git clone https://github.com/[username]/bing-search-automation
-cd bing-search-automation
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
+1. Download .zip file from releases
+2. Extract it
+3. Change Directory to folder which have run.py
 
 ### Basic Execution
 ```bash
@@ -76,9 +67,8 @@ Refer to `readme.txt` in each version directory for customization options and ve
 - Contact via ivintitus@hotmail.com 
 
 
-## License
+## License and Copyright
 
 **AGPL-3.0 license**
 
----
-**&copy; Ivin Titus**
+**&copy; 2023 Ivin Titus**
