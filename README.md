@@ -2,7 +2,7 @@
 
 Automate Bing searches using Python and GUI automation. Lightweight script that simulates keyboard & mouse inputs using pyautogui.
 
-> ⚠️ NOTICE: This Repository is not actively maintained and it's abandoned due to rapid changes in rewards program and violations against microsoft policies. 
+> ⚠️ NOTICE: This Repository is not actively maintained and it's completely abandoned due to rapid changes in rewards program and violations against microsoft policies.
 
 ## Features
 
